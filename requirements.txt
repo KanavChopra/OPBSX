@@ -1,0 +1,6 @@
+numpy
+scipy
+matplotlib
+tk
+mysql-connector-python
+python-dotenv
